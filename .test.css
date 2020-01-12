@@ -1,0 +1,33 @@
+html {
+    font-size:12px; /* 12 px = pixels tall*/
+    font-family: 'Noto Serif', serif;
+    text-align: center;
+}
+
+body {
+  width: 600px;
+  margin: 5px auto;
+  background-color: #FF9500;
+  padding: 5px 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;    
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+  }
+
+  h4{
+      margin: 0 0;
+      border: 5px solid black;
+  }
+
+/*
+
+ This is how you comment in css
+ 
+ */
+
+}
